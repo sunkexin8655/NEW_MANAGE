@@ -25,7 +25,7 @@
   -moz-box-shadow:none;
   -webkit-box-shadow:none;
   box-shadow:none;
-  font-family:'PingFangSC-Semibold', 'PingFang SC Semibold', 'PingFang SC';
+  font-family:'PingFang SC Bold', 'PingFang SC';
   font-weight:650;
   font-style:normal;
 }
@@ -35,7 +35,7 @@
   top:22px;
   width:91px;
   height:22px;
-  font-family:'PingFangSC-Semibold', 'PingFang SC Semibold', 'PingFang SC';
+  font-family:'PingFang SC Bold', 'PingFang SC';
   font-weight:650;
   font-style:normal;
 }
@@ -51,7 +51,7 @@
   left:42px;
   top:65px;
   width:785px;
-  height:563px;
+  height:651px;
 }
 #u3_img {
   position:absolute;
@@ -132,7 +132,7 @@
   top:0px;
   width:132px;
   height:30px;
-  font-family:'PingFangSC-Regular', 'PingFang SC';
+  font-family:'PingFang SC Regular', 'PingFang SC';
   font-weight:400;
   font-style:normal;
   color:#FFFFFF;
@@ -221,7 +221,7 @@
   top:30px;
   width:132px;
   height:88px;
-  font-family:'PingFangSC-Regular', 'PingFang SC';
+  font-family:'PingFang SC Regular', 'PingFang SC';
   font-weight:400;
   font-style:normal;
 }
@@ -309,7 +309,7 @@
   top:118px;
   width:132px;
   height:88px;
-  font-family:'PingFangSC-Regular', 'PingFang SC';
+  font-family:'PingFang SC Regular', 'PingFang SC';
   font-weight:400;
   font-style:normal;
 }
@@ -397,7 +397,7 @@
   top:206px;
   width:132px;
   height:88px;
-  font-family:'PingFangSC-Regular', 'PingFang SC';
+  font-family:'PingFang SC Regular', 'PingFang SC';
   font-weight:400;
   font-style:normal;
 }
@@ -485,7 +485,7 @@
   top:294px;
   width:132px;
   height:88px;
-  font-family:'PingFangSC-Regular', 'PingFang SC';
+  font-family:'PingFang SC Regular', 'PingFang SC';
   font-weight:400;
   font-style:normal;
 }
@@ -573,7 +573,7 @@
   top:382px;
   width:132px;
   height:88px;
-  font-family:'PingFangSC-Regular', 'PingFang SC';
+  font-family:'PingFang SC Regular', 'PingFang SC';
   font-weight:400;
   font-style:normal;
 }
@@ -661,7 +661,7 @@
   top:470px;
   width:132px;
   height:88px;
-  font-family:'PingFangSC-Regular', 'PingFang SC';
+  font-family:'PingFang SC Regular', 'PingFang SC';
   font-weight:400;
   font-style:normal;
 }
@@ -672,7 +672,95 @@
   width:128px;
   word-wrap:break-word;
 }
-#u59_div {
+#u59_img {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:195px;
+  height:88px;
+}
+#u59 {
+  position:absolute;
+  left:0px;
+  top:558px;
+  width:195px;
+  height:88px;
+}
+#u60 {
+  position:absolute;
+  left:2px;
+  top:36px;
+  width:191px;
+  word-wrap:break-word;
+}
+#u61_img {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:294px;
+  height:88px;
+}
+#u61 {
+  position:absolute;
+  left:195px;
+  top:558px;
+  width:294px;
+  height:88px;
+  text-align:left;
+}
+#u62 {
+  position:absolute;
+  left:2px;
+  top:36px;
+  width:290px;
+  word-wrap:break-word;
+}
+#u63_img {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:159px;
+  height:88px;
+}
+#u63 {
+  position:absolute;
+  left:489px;
+  top:558px;
+  width:159px;
+  height:88px;
+}
+#u64 {
+  position:absolute;
+  left:2px;
+  top:36px;
+  width:155px;
+  word-wrap:break-word;
+}
+#u65_img {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:132px;
+  height:88px;
+}
+#u65 {
+  position:absolute;
+  left:648px;
+  top:558px;
+  width:132px;
+  height:88px;
+  font-family:'PingFang SC Regular', 'PingFang SC';
+  font-weight:400;
+  font-style:normal;
+}
+#u66 {
+  position:absolute;
+  left:2px;
+  top:36px;
+  width:128px;
+  word-wrap:break-word;
+}
+#u67_div {
   position:absolute;
   left:0px;
   top:0px;
@@ -685,21 +773,21 @@
   -moz-box-shadow:none;
   -webkit-box-shadow:none;
   box-shadow:none;
-  font-family:'PingFangSC-Semibold', 'PingFang SC Semibold', 'PingFang SC';
+  font-family:'PingFang SC Bold', 'PingFang SC';
   font-weight:650;
   font-style:normal;
 }
-#u59 {
+#u67 {
   position:absolute;
   left:42px;
   top:22px;
   width:91px;
   height:22px;
-  font-family:'PingFangSC-Semibold', 'PingFang SC Semibold', 'PingFang SC';
+  font-family:'PingFang SC Bold', 'PingFang SC';
   font-weight:650;
   font-style:normal;
 }
-#u60 {
+#u68 {
   position:absolute;
   left:0px;
   top:0px;
